@@ -3,4 +3,4 @@
 
 This repository is created for learning Git and GitHub workflows.  
   
-remote change made by samardeep.
+remote changes made by samardeep.
