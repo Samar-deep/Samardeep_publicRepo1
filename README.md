@@ -3,4 +3,4 @@
 
 This repository is created for learning Git and GitHub workflows.  
   
-local change made by samardeep.
+local changes made by samardeep.
